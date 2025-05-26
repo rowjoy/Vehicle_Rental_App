@@ -1,3 +1,5 @@
+// ignore_for_file: unreachable_switch_default
+
 import 'dart:convert';
 import 'dart:io';
 import 'package:http/http.dart' as http;
